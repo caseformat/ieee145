@@ -1,0 +1,14 @@
+Power flow data for IEEE 145 bus, 50 generator dynamic test case.
+See CASEFORMAT for details on the MATPOWER case file format.
+Converted by MATPOWER 5.1 using CDF2MPC on 18-May-2016
+from 'dd50cdf.txt'.
+See end of file for warnings generated during conversion.
+
+Converted from IEEE CDF file from:
+    https://labs.ece.uw.edu/pstca/, namely
+    https://labs.ece.uw.edu/pstca/dyn50/dd50cdf.txt
+
+This is a solved power flow case. MATPOWER requires that the
+'pf.enforce_q_lims' option be on to obtain the same solution.
+
+ 01/02/90 IEEE WORKING GROUP    100.0 1990 S 50-GEN  CASE
